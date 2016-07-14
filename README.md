@@ -1,6 +1,6 @@
 # [ImageSliderWithSwipes](https://myinnos.github.io/ImageSliderWithSwipes/ "View Website - ImageSliderWithSwipes")
 
-This is an Image slider with swipes, Here we used Volley to load URL's from JSON! Here we make it very easy way to load images from Internet!
+This is an Image slider with swipes, Here we used Volley to load URL's from JSON! Here we make it very easy way to load images from Internet and We customized the description font(OpenSans).
 
 First of all thanks to [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider "AndroidImageSlider"), Here You can easily load images from an internet URL, drawable, or file. And there are many kinds of amazing animations you can choose. Happy Coding!
 
