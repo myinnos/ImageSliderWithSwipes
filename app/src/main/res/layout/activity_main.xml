@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <in.myinnos.imagesliderwithswipeslibrary.SliderLayout
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        custom:auto_cycle="true"
+        custom:indicator_visibility="visible"
+        custom:pager_animation="Stack"
+        custom:pager_animation_span="1100" />
+
+</RelativeLayout>
