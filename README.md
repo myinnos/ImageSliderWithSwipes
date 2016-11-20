@@ -4,7 +4,7 @@ This is an Image slider with swipes, Here we used Volley to load URL's from JSON
 
 First of all thanks to [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider "AndroidImageSlider"), Here You can easily load images from an internet URL, drawable, or file. And there are many kinds of amazing animations you can choose. Happy Coding!
 
-[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](http://app.fansfolio.com/G_Android)
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://ff.app.link/gt_get_app)
 
 Kindly use the following links to use this library:
 
@@ -155,11 +155,12 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
 ## Apps using [ImageSliderWithSwipes](https://myinnos.github.io/ImageSliderWithSwipes/ "View Website - ImageSliderWithSwipes")
 If you are using AppIntro in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/ImageSliderWithSwipes/issues/new)!
 
- * [fans folio](https://play.google.com/store/apps/details?id=in.myinnos.fansfolio "fans folio")
-
  * [Pawan Kalyan : PSPK Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.pawankalyan "Pawan Kalyan : PSPK Fans Adda")
 
  * [Chiranjeevi : Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.chiru "Chiranjeevi : Fans Adda")
+ 
+ * [fans folio: Celebrity Lovers](https://play.google.com/store/apps/details?id=in.myinnos.fansfolio "fans folio: Celebrity Lovers")
+
 
 ## Thanks
 - [Volley](https://github.com/mcxiaoke/android-volley)
