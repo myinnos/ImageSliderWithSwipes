@@ -159,6 +159,8 @@ If you are using AppIntro in your app and would like to be listed here, please l
 
  * [Chiranjeevi : Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.chiru "Chiranjeevi : Fans Adda")
  
+ * [Niharika Konidela](https://play.google.com/store/apps/details?id=com.fansfolio.niharika "Niharika Konidela")
+ 
  * [fans folio: Celebrity Lovers](https://play.google.com/store/apps/details?id=in.myinnos.fansfolio "fans folio: Celebrity Lovers")
 
 
