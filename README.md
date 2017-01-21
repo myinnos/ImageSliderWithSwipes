@@ -173,7 +173,7 @@ If you are using AppIntro in your app and would like to be listed here, please l
 
 ## Contact
 #### Prabhakar Thota
-* Website: [myinnos.com](https://myinnos.in "Prabhakar Thota")
+* Website: [myinnos.in](https://myinnos.in "Prabhakar Thota")
 * e-mail: contact@myinnos.in
 * Twitter: [@myinnos](https://twitter.com/myinnos "Prabhakar Thota on twitter")
 
