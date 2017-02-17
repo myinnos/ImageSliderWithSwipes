@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
 
 ```
 ## Apps using [ImageSliderWithSwipes](https://myinnos.github.io/ImageSliderWithSwipes/ "View Website - ImageSliderWithSwipes")
-If you are using AppIntro in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/ImageSliderWithSwipes/issues/new)!
+If you are using ImageSliderWithSwipes in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/ImageSliderWithSwipes/issues/new)!
 
  * [Pawan Kalyan : PSPK Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.pawankalyan "Pawan Kalyan : PSPK Fans Adda")
 
