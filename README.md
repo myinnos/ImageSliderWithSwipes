@@ -20,12 +20,12 @@ In build.gradle (Project)
 And then in the other gradle file(may be your app gradle or your own module library gradle, but never add in both of them to avoid conflict.)
 	
 	 dependencies {
-	        compile 'com.github.myinnos:ImageSliderWithSwipes:v1.0'
+	        compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
 	        }
 
 ## Example
 
-![ImageSliderWithSwipes](https://s19.postimg.org/ltckouhlv/Image_Slider_With_Swipes.png)
+![ImageSliderWithSwipes](https://raw.githubusercontent.com/myinnos/ImageSliderWithSwipes/master/gif/image_slide_example.gif)
 
 ##### Create Android Project (set name ImageSliderWithSwipes)
 
@@ -43,7 +43,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.0.0'
-    compile 'com.github.myinnos:ImageSliderWithSwipes:v1.0'
+    compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
     compile 'com.mcxiaoke.volley:library:1.0.+'
 }
 ```
@@ -107,6 +107,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
                             // initialize a SliderLayout
                             textSliderView
                                     .description(name)
+				    .descriptionSize(20)
                                     .image(url_maps.get(name))
                                     .setScaleType(BaseSliderView.ScaleType.CenterCrop)
                                     .setOnSliderClickListener(MainActivity.this);
