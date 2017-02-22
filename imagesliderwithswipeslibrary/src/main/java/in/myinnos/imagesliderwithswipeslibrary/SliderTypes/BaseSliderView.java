@@ -41,6 +41,8 @@ public abstract class BaseSliderView {
 
     private String mDescription;
 
+    private int mDescriptionSize;
+
     private Picasso mPicasso;
 
     /**
@@ -93,6 +95,16 @@ public abstract class BaseSliderView {
      */
     public BaseSliderView description(String description){
         mDescription = description;
+        return this;
+    }
+
+    /**
+     * the description of a slider image.
+     * @param descriptionSize
+     * @return
+     */
+    public BaseSliderView descriptionSize(int descriptionSize){
+        mDescriptionSize = descriptionSize;
         return this;
     }
 
@@ -161,6 +173,10 @@ public abstract class BaseSliderView {
 
     public String getDescription(){
         return mDescription;
+    }
+
+    public int getDescriptionSize(){
+        return mDescriptionSize;
     }
 
     public Context getContext(){

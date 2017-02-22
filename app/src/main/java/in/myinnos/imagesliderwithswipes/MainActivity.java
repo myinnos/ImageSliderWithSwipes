@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
                             // initialize a SliderLayout
                             textSliderView
                                     .description(name)
+                                    .descriptionSize(12)
                                     .image(url_maps.get(name))
                                     .setScaleType(BaseSliderView.ScaleType.CenterCrop)
                                     .setOnSliderClickListener(MainActivity.this);

@@ -24,6 +24,7 @@ public class TextSliderView extends BaseSliderView {
         ImageView target = (ImageView) v.findViewById(R.id.myinnos_slider_image);
         description_textView = (TextView) v.findViewById(R.id.description);
         description_textView.setText(getDescription());
+        description_textView.setTextSize(getDescriptionSize());
         bindEventAndShow(v, target);
         return v;
     }
