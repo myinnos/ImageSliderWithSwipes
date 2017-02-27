@@ -174,9 +174,10 @@ If you are using ImageSliderWithSwipes in your app and would like to be listed h
 
 ## Contact
 #### Prabhakar Thota
-* Website: [myinnos.in](http://www.myinnos.in "Prabhakar Thota")
-* e-mail: contact@myinnos.in
-* Twitter: [@myinnos](https://twitter.com/myinnos "Prabhakar Thota on twitter")
+* :globe_with_meridians: Website: [myinnos.in](http://www.myinnos.in "Prabhakar Thota")
+* :email: e-mail: contact@myinnos.in
+* :mag_right: LinkedIn: [PrabhakarThota](https://www.linkedin.com/in/prabhakarthota "Prabhakar Thota on LinkedIn")
+* :thumbsup: Twitter: [@myinnos](https://twitter.com/myinnos "Prabhakar Thota on twitter")
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/myinnos/ImageSliderWithSwipes&title=ImageSliderWithSwipes&language=&tags=github&category=software) 
 
