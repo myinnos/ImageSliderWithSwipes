@@ -41,8 +41,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 ```java
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
     compile 'com.mcxiaoke.volley:library:1.0.+'
 }
