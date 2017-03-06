@@ -9,20 +9,20 @@ First of all thanks to [AndroidImageSlider](https://github.com/daimajia/AndroidI
 Kindly use the following links to use this library:
 
 In build.gradle (Project)
-
-	allprojects {
-		repositories {
+```java
+allprojects {
+  repositories {
 			...
-			maven { url "https://jitpack.io" }
-		}
+		maven { url "https://jitpack.io" }
 	}
-	
+}
+```
 And then in the other gradle file(may be your app gradle or your own module library gradle, but never add in both of them to avoid conflict.)
-	
-	 dependencies {
-	        compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
-	        }
-
+```java
+dependencies {
+	compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
+}
+```
 ## Example
 
 ![ImageSliderWithSwipes](https://raw.githubusercontent.com/myinnos/ImageSliderWithSwipes/master/gif/image_slide_example.gif)
