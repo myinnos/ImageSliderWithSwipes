@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImageSliderWithSwipes.iml" filepath="$PROJECT_DIR$/ImageSliderWithSwipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageSliderWithSwipes.iml" filepath="$PROJECT_DIR$/ImageSliderWithSwipes.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagesliderwithswipeslibrary/imagesliderwithswipeslibrary.iml" filepath="$PROJECT_DIR$/imagesliderwithswipeslibrary/imagesliderwithswipeslibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagesliderwithswipeslibrary/imagesliderwithswipeslibrary.iml" filepath="$PROJECT_DIR$/imagesliderwithswipeslibrary/imagesliderwithswipeslibrary.iml" />
     </modules>
   </component>

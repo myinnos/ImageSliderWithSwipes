@@ -1,6 +1,5 @@
 package in.myinnos.imagesliderwithswipes;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
@@ -74,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
                 }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Toast.makeText(getApplicationContext(), "network issue: please enable wifi/mobile data", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "network issue: please enable wifi/mobile data + " + error, Toast.LENGTH_SHORT).show();
             }
         });
 
