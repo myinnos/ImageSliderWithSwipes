@@ -40,10 +40,10 @@ dependencies {
 
 ```java
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:25.1.0'
-    compile 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
-    compile 'com.mcxiaoke.volley:library:1.0.+'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:25.1.0'
+    implementation 'com.github.myinnos:ImageSliderWithSwipes:1.0.1'
+    implementation 'com.mcxiaoke.volley:library:1.0.+'
 }
 ```
 
